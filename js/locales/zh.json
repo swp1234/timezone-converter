@@ -1,0 +1,10 @@
+{
+  "app": {
+    "title": "Time Zone Converter",
+    "description": "Convert a meeting time across UTC, US, Europe, and Asia time zones without an external API."
+  },
+  "ui": {
+    "skip": "Skip to tool",
+    "loading": "Loading..."
+  }
+}
